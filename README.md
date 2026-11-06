@@ -1,6 +1,6 @@
 # Perfect Templates
 
-A curated collection of premium, modern and reusable website templates.
+Collection of premium, responsive and reusable website templates.
 
 ## Available Templates
 
@@ -10,53 +10,23 @@ A curated collection of premium, modern and reusable website templates.
 
 ## Repository Structure
 
-```text
-Perfect-Template/
-├── QWEN.md
-├── README.md
-├── .gitignore
-├── documentation/
-└── templates/
-    └── elora-ecommerce/
+- `QWEN.md` — AI development instructions
+- `documentation/` — Repository documentation
+- `templates/` — Independent website templates
 
+## Standards
 
+- Premium Apple-inspired design
+- Responsive layouts
+- Clean and reusable code
+- Accessibility and SEO
+- Functional interactions
 
-cat > README.md <<'EOF'
-# Perfect Templates
+## Development Rules
 
-A curated collection of premium, modern and reusable website templates.
-
-## Available Templates
-
-| Template | Category | Technology | Status |
-|---|---|---|---|
-| ÉLORA E-commerce | Fashion / E-commerce | HTML, CSS, Vanilla JS | In development |
-
-## Repository Structure
-
-- QWEN.md
-- README.md
-- .gitignore
-- documentation/
-- templates/
-  - elora-ecommerce/
-
-## Development Standards
-
-- Premium Apple-inspired design.
-- Responsive layouts.
-- Clean and maintainable code.
-- Reusable components.
-- Accessibility and SEO.
-- Functional interactions.
-- Documentation for every template.
-
-## Rules
-
-Read QWEN.md before making any changes.
-
-Each template is an independent project. Preserve its existing architecture and work incrementally.
+Read `QWEN.md` before modifying the repository.
+Each template must preserve its own architecture.
 
 ## License
 
-All rights reserved. See the license terms before distributing any template.
+All rights reserved.
